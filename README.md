@@ -1,3 +1,5 @@
 # Vintage Story mods repository
 
-- `LargeGearCrosshair` and `MediumGearCrosshair` - retexture the crosshair to a gear.
+- `MediumGearCrosshair` and `LargeGearCrosshair` - retexture the crosshair to a gear.
+![](screenshots/MediumGearCrosshair.png)
+![](screenshots/LargeGearCrosshair.png) 
