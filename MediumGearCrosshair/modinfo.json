@@ -1,0 +1,13 @@
+{
+    "type": "content",
+    "modid": "reyGearCrosshairMedium",
+    "name": "Gear crosshair - medium size",
+    "authors": [ "Rey" ],
+    "description": "Retextures the crosshair to a gear.",
+    "website": "",
+    "side": "Client",
+    "version": "1.0.0",
+    "dependencies": {
+        "game": "*"
+    }
+}
