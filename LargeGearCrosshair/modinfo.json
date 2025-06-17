@@ -6,7 +6,7 @@
     "description": "Retextures the crosshair to a gear.",
     "website": "",
     "side": "Client",
-    "version": "1.0.0",
+    "version": "1.0.2",
     "dependencies": {
         "game": "*"
     }
